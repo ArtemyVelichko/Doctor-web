@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCard -->
+    <dimen name="app_card_inner_padding">12dp</dimen>
+    <dimen name="app_card_content_spacing">12dp</dimen>
+    <dimen name="app_card_icon_size">48dp</dimen>
+
+    <!-- CategorizedAppCardList -->
+    <dimen name="list_horizontal_padding">16dp</dimen>
+    <dimen name="header_vertical_padding">12dp</dimen>
+    <dimen name="list_item_vertical_padding">4dp</dimen>
+
+    <!-- AppListScreen -->
+    <dimen name="app_list_error_padding">16dp</dimen>
+    <dimen name="app_list_error_title_spacing">8dp</dimen>
+    <dimen name="app_list_error_button_spacing">16dp</dimen>
+    <dimen name="app_list_error_icon_end_padding">8dp</dimen>
+</resources>

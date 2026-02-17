@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppInspector</string>
+    
+    <!-- SingleAppScreen -->
+    <string name="single_app_screen_title">О приложении</string>
+    <string name="single_app_screen_back">Назад</string>
+    <string name="single_app_screen_system_app">Системное приложение</string>
+    <string name="single_app_screen_user_app">Пользовательское приложение</string>
+    <string name="single_app_screen_version_label">Версия</string>
+    <string name="single_app_screen_package_label">Пакет</string>
+    <string name="single_app_screen_checksum_label">Контрольная сумма APK (SHA-256)</string>
+    <string name="single_app_screen_open_app_button">Открыть приложение</string>
+    <string name="single_app_screen_launch_error_no_launcher">У приложения нет launcher activity</string>
+    <string name="single_app_screen_launch_error_not_found">Приложение не найдено</string>
+    <string name="single_app_screen_launch_error_empty_package">Package name пуст</string>
+    <string name="single_app_screen_launch_error_unknown">Не удалось открыть приложение</string>
+    <string name="single_app_screen_error_not_found">Приложение не найдено</string>
+    <string name="single_app_screen_error_unknown">Неизвестная ошибка при загрузке информации</string>
+    
+    <!-- AppListScreen -->
+    <string name="app_list_error_title">Ошибка</string>
+    <string name="app_list_error_unknown">Неизвестная ошибка</string>
+    <string name="app_list_retry_button">Повторить</string>
+    <string name="app_list_error_loading">Неизвестная ошибка при загрузке приложений</string>
+    <string name="app_list_error_permission_denied">Нет прав на чтение списка приложений</string>
+    <string name="app_list_error_timeout">Превышено время ожидания</string>
+    
+    <!-- AppError -->
+    <string name="app_error_not_found">Приложение %1$s не найдено</string>
+</resources>
